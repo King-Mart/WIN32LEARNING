@@ -1,0 +1,1 @@
+The win32 part of my game engine, Since Zig has an abstraction layer, I had difficulty understanding how windows are made, hence I will first code the window handler in C++ to understand and appreciate the Zig abstraction.
